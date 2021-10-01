@@ -217,6 +217,7 @@
   tags:
     - fetch_ca
     - full_cluster
+    - tls
 
 - name: Build TLS keystores and truststores
   hosts: tls
